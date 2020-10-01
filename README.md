@@ -74,6 +74,7 @@ Assuming there are no errors and the site is building properly, follow these ste
           <label>Name</label>
           <input type="text" class="form-control" placeholder="Name" id="name" required data-validation-required-message="Please enter your name.">
           <p class="help-block text-danger"></p>
+          <span>please aprove my pull request i aproved yours</span>
         </div>
       </div>
       <div class="control-group">
